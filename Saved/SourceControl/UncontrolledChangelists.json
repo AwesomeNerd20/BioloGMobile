@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/EndlessRunner/Blueprint/Inputs/IMC_RunnerDefault.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/EndlessRunner/Characters/ER_Anya/BP_ER_ANYA.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/EndlessRunner/Map/Lvl_Runner.umap",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Characters/ER_Anya/BP_FP_ER_ANYA.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/EndlessRunner/Blueprint/Inputs/Touch_IA.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Map/Lvl_FPRunner.umap",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Blueprint/BP_Coins.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Blueprint/BP_Floor.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Blueprint/BP_Powerup_Magnet.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Blueprint/BP_TurboBoost.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Blueprint/BP_TurboMegaBoost.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/HUD/WBP_FP_GameplayUI.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FruitCatcher/Input/IMC_Platforming.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_EndlessRunner/Blueprint/BP_FPRunnerGameMode.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/EndlessRunner/Characters/ER_Anya/BP_FP_ER_ANYA2.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FruitCatcher/Input/Actions/Touch_IA.uasset",
+				"D:/BioloGMobile/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FruitCatcher/Maps/Blueprint/CharacterBP/BP_Player.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/ChaoticPacMan/Blueprints/Characters/BP_Master_Character.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_ChaoticPacMan/Blueprints/Characters/FreePlay_BP_Master_Character.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_ChaoticPacMan/Blueprints/Widgets/FreePlay_W_UI.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/Dhitter_Files/AnyaSpritesV3/BP/BP_MAZE_ANYA.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/SpaceInvaders/Blueprints/BP_SpaceCharacter.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/SpaceInvaders/Input/IMC_Default.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/SpaceInvaders/Assets/Em_Blue.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/SpaceInvaders/Blueprints/Shot_Friendly.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/SpaceInvaders/Blueprints/Shot_UNfriendly.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/Minigames/FreePlay_SpaceInvaders/Blueprints/FP_BP_SpaceCharacter.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/LevelLockSystem/SG_LevelLock.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/LevelLockSystem/SG_LevelLockBC.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/LevelLockSystem/SG_LevelLockET.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/LevelLockSystem/SG_LevelLockS.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/LevelLockSystem/SG_LevelLockTC.uasset",
+				"D:/BioloGMobile/Content/StarterContent/BioloG/LevelLockSystem/SG_LevelLockTM.uasset"
+			]
+		}
+	]
+}
